@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "fairy_sparklers": {
+        "id": "product0",
+        "type": "type0",
+        "name": "Fairy Sparklers",
+        "description": "Multi-colored sparklers that are safe for any age."
+      }
+    },
+    {
+      "bottle_rockets": {
+        "id": "product1",
+        "type": "type0",
+        "name": "Bottle Rockets",
+        "description": "zip, pop!"
+      }
+    },
+    {
+      "roman_candles": {
+        "id": "product2",
+        "type": "type0",
+        "name": "Roman Candles",
+        "description": "Light it up and point it at your friends!"
+      }
+    },
+    {
+      "mortars": {
+        "id": "product3",
+        "type": "type1",
+        "name": "Mortars",
+        "description": "Big boom, lots of sparkles!"
+      }
+    },
+    {
+      "double_booms": {
+        "id": "product4",
+        "type": "type1",
+        "name": "Double Booms",
+        "description": "Like mortars but two for one!"
+      }
+    },
+    {
+      "triple_booms": {
+        "id": "product5",
+        "type": "type1",
+        "name": "Triple Booms",
+        "description": "Like mortars but three for one!"
+      }
+    },
+    {
+      "the_dragon": {
+        "id": "product6",
+        "type": "type2",
+        "name": "The Dragon",
+        "description": "Seen Lord of the Rings? Gandalf's shit."
+      }
+    },
+    {
+      "death_eater": {
+        "id": "product7",
+        "type": "type2",
+        "name": "Death Eater",
+        "description": "Seen Harry Potter? Voldy's shit."
+      }
+    },
+    {
+      "get_away": {
+        "id": "product8",
+        "type": "type2",
+        "name": "The Get Away",
+        "description": "Like the mortar but it keeps going until you're gone."
+      }
+    },
+    {
+      "dynamite": {
+        "id": "product9",
+        "type": "type3",
+        "name": "Dynamite",
+        "description": "The OG boomstick great for anything from fishing to mountains."
+      }
+    },
+    {
+      "double_dynamite": {
+        "id": "product10",
+        "type": "type3",
+        "name": "Double Dynamite",
+        "description": "Like dynamite, but two sticks."
+      }
+    },
+    {
+      "triple_dynamite": {
+        "id": "product11",
+        "type": "type3",
+        "name": "Triple Dynamite",
+        "description": "Like Dynamite, but three sticks."
+      }
+    },
+    {
+      "dynamite_bundle": {
+        "id": "product12",
+        "type": "type4",
+        "name": "Bundle of Dynamite",
+        "description": "Whole bundle of dynamite. Watch out for the house."
+      }
+    },
+    {
+      "c4": {
+        "id": "product13",
+        "type": "type4",
+        "name": "C4",
+        "description": "New Age dynamite. Lick it and stick it."
+      }
+    },
+    {
+      "nitroglycerin": {
+        "id": "product14",
+        "type": "type4",
+        "name": "Nitroglycerin",
+        "description": "The name is longer than the time it takes to go boom."
+      }
+    },
+    {
+      "rocket": {
+        "id": "product15",
+        "type": "type5",
+        "name": "Rocket",
+        "description": "Goes further than you can throw dynamite."
+      }
+    },
+    {
+      "tomahawk_missile": {
+        "id": "product16",
+        "type": "type5",
+        "name": "Tomahawk Missile",
+        "description": "For blowing up someone else's building."
+      }
+    },
+    {
+      "nuke": {
+        "id": "product17",
+        "type": "type5",
+        "name": "nuke",
+        "description": "For blowing up all the buildings."
+      }
+    }
+  ]
+}
