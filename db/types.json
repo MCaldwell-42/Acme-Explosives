@@ -1,0 +1,40 @@
+{
+  "types": [
+    {
+      "id": "type0",
+      "category": "category0",
+      "name": "personal",
+      "description": "Fireworks intended for recreational use during holiday celebrations"
+    },
+    {
+      "id": "type1",
+      "category": "category0",
+      "name": "projessional",
+      "description": "Fireworks intended for professional use during massive celebrations"
+    },
+    {
+      "id": "type2",
+      "category": "category0",
+      "name": "Big Boy",
+      "description": "Fireworks intended for illegal use during daring get aways"
+    },
+    {
+      "id": "type3",
+      "category": "category1",
+      "name": "personal",
+      "description": "Demolitions intended for personal use to get rid of resilient obstacles"
+    },
+    {
+      "id": "type4",
+      "category": "category1",
+      "name": "professional",
+      "description": "Demolitions intended for professional use to git rid of construction obstacles"
+    },
+    {
+      "id": "type5",
+      "category": "category1",
+      "name": "Big Boy",
+      "description": "Demolitions intended for illegal or wartime use to make a big point"
+    }
+  ]
+}
