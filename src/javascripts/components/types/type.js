@@ -10,6 +10,4 @@ const initType = () => {
     .catch(err => console.error('error from types', err));
 };
 
-// going nowhere right now
-
 export default { initType };
