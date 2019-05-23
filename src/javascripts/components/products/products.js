@@ -4,7 +4,6 @@ import categoryData from '../../helpers/data/catData';
 import typeData from '../../helpers/data/typesData';
 
 
-
 const domStringBuilder = (products) => {
   let domString = '';
   domString += '<div class="container row card-group">';
