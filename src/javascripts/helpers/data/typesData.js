@@ -10,7 +10,6 @@ const getTypesForEachCategory = categories => new Promise((resolve, reject) => {
         const newType = type;
         const matchingCategory = categories.filter(category => category.id === type.category);
         newType.categoryName = matchingCategory[0].name;
-        console.error(newType);
         return newType;
       });
       resolve(typesWithCategories);

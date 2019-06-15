@@ -8,8 +8,8 @@ const domStringBuilder = (products) => {
   let domString = '';
   domString += '<div class="container row card-group">';
   products.forEach((product) => {
-    domString += '<div class="col-3">';
-    domString += `<div class="card p-2" id='${product.id}'>`;
+    domString += '<div class="col-3 product">';
+    domString += `<div class="card check p-2" id='${product.id}'>`;
     domString += '<div class="card-body">';
     domString += `<h3 class="card-title"> ${product.name} </h3>`;
     domString += `<h5 class="description"> ${product.description} </h5>`;
