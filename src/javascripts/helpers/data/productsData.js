@@ -11,13 +11,11 @@ const getProductsForEachType = types => new Promise((resolve, reject) => {
         const arrayObjects = Object.values(product);
         const array = arrayObjects[0];
         const newProduct = array;
-        // console.error(arrayObjects);
         const matchingTypes = types.filter(type => type.id === array.type);
         const catNames = matchingTypes[0].categoryName;
         const typeName = matchingTypes[0].name;
         newProduct.catNames = catNames;
         newProduct.typeName = typeName;
-        // newProduct.product = matchingTypes;
         return newProduct;
       });
       console.error(productsWithTypes);
